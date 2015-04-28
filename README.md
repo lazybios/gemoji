@@ -2,6 +2,9 @@ lazybios/gemoji
 ==============
 
 基于gemoji补充了[什么值得买](http://smzdm.com)的84个表情
+![Screenshot1](http://freshstu.qiniudn.com/Screenshot1.png)
+
+![Screenshot2](http://freshstu.qiniudn.com/Screenshot2.png)
 
 安装
 ======
