@@ -65,7 +65,8 @@ module Emoji
 
     def default_image_filename
       if custom?
-        '%s.png' % name
+        # '%s.png' % name
+        '%s.gif' % name
       else
         'unicode/%s.png' % hex_inspect.sub(/-fe0f\b/, '')
       end

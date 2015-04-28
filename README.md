@@ -1,3 +1,20 @@
+lazybios/gemoji
+==============
+
+基于gemoji补充了[什么值得买](http://smzdm.com)的84个表情
+
+安装
+======
+```ruby
+ gem 'gemoji', github: 'lazybios/gemoji', branch: 'master'
+```
+
+注意事项
+======
++ 自定义图标时,强制类型为`.gif`格式(gif同时支持动态与静态)
++ 因为表情图片大小不统一,所以建议使用[html-pipeline](https://github.com/jch/html-pipeline)时,取消表情图片20x20得限制
++ 其它使用问题请参考原`github/gemoji`
+
 gemoji
 ======
 
